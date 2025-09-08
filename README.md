@@ -1,6 +1,6 @@
 # 👨🏿‍💻 Nycolas Angelo
 
-**`Desenvolvedor front-end`**
+**`Aprendiz em Desenvolvimento front-end`**
 
 Meu nome é Nycolas Angelo Santos, tenho 24 anos e sou de Carmo do Cajuru - MG.
 
