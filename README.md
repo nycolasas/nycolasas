@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://github.com/nycolasas.png" width="180" alt="Nycolas Angelo" />
   <h1>👨🏿‍💻 Nycolas Angelo</h1>
-  <h3>Desenvolvedor Front-end em formação</h3>
+  <h3>Analista de Dados | Graduando em Análise e Desenvolvimento de Sistemas</h3>
   <p>
     📍 Carmo do Cajuru - MG<br>
-    🎓 Técnico em Informática para Internet - CEFET-MG
+    🎓 Anhanguera - Análise e Desenvolvimento de Sistemas
   </p>
 </div>
 
@@ -12,11 +11,11 @@
   <a href="https://www.linkedin.com/in/nycolasas" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/nycolasas" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="mailto:nycolasangelo25@gmail.com" target="_blank">
     <img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nycolasas" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -24,20 +23,22 @@
 
 ### Sobre mim
 
-Meu nome é Nycolas Angelo Santos, tenho 24 anos e sou apaixonado por tecnologia, design e desenvolvimento web.
+Sou Nycolas Angelo Santos, profissional em evolução constante no universo de dados e tecnologia. Nos últimos anos, meu foco profissional se expandiu para a área de análise de dados, onde venho desenvolvendo soluções orientadas a insights, automação e apoio à tomada de decisão.
 
-Atualmente curso Técnico em Informática para Internet no CEFET-MG, onde venho desenvolvendo habilidades em programação, lógica, front-end e trabalho em equipe. Tenho interesse em criar interfaces modernas, responsivas e acessíveis, além de buscar aprender novas ferramentas e tecnologias para evoluir profissionalmente.
+Atualmente, trabalho com ferramentas como Power BI, SQL, DAX e automações em Python, com o objetivo de transformar dados em informação útil e estratégica para negócios. Também estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera, ampliando meus conhecimentos em desenvolvimento, lógica de programação e arquitetura de software.
 
-Estou em busca da minha primeira oportunidade como estagiário em desenvolvimento front-end, com foco em aprender na prática, construir experiências digitais e contribuir em projetos reais.
+Além disso, tenho interesse em UX/UI e design de interfaces, e utilizo o Figma para criar fluxos e protótipos que ajudam a transformar ideias em experiências mais intuitivas e bem pensadas.
 
 ---
 
-### 🧩 Tecnologias e ferramentas
+### 🧠 Skills e ferramentas
 
 <p align="left">
-  <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Power BI" width="30px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/Power-BI-Logo.svg" />
+  <img alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="DAX" width="30px" src="https://img.shields.io/badge/DAX-1C1C1C?style=flat-square&logo=microsoft&logoColor=white" />
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -45,12 +46,12 @@ Estou em busca da minha primeira oportunidade como estagiário em desenvolviment
 
 ---
 
-### 🚀 Objetivos
+### 🚀 O que estou buscando
 
-- Aprender cada vez mais sobre desenvolvimento front-end
-- Construir projetos práticos e profissionais
-- Melhorar meu conhecimento em HTML, CSS, JavaScript e frameworks modernos
-- Contribuir em times de tecnologia e crescer junto com a equipe
+- Desenvolver projetos de dados com impacto real
+- Aprofundar meu conhecimento em Power BI, SQL e automação de processos
+- Construir dashboards e relatórios mais estratégicos e visualmente eficazes
+- Continuar evoluindo na área de dados e tecnologia, com foco em soluções inteligentes
 
 ---
 
@@ -65,10 +66,10 @@ Estou em busca da minha primeira oportunidade como estagiário em desenvolviment
 
 ### 💬 Vamos conversar?
 
-Se quiser trocar uma ideia sobre desenvolvimento, projetos, estudo ou oportunidades, me chama no LinkedIn ou manda um e-mail.
+Se você quiser trocar ideia sobre dados, dashboards, SQL, Power BI, automações em Python, ou oportunidades na área, fique à vontade para me chamar no LinkedIn ou enviar um e-mail.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nycolasas" target="_blank">
-    <img alt="Fale comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="Conectar no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
